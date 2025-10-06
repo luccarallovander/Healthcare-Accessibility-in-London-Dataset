@@ -19,7 +19,7 @@ This project builds a **borough–hospital multi-level dataset** to help the GLA
 
 ---
 
-## 🧩 Methodology
+## Methodology
 
 ### 1) Primary Data (Hospitals: Quality & Location)
 - **Source:** Google Maps Places API (Text Search, per borough).  
